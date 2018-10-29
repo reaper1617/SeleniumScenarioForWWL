@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/gerasimchuk/selenium/SeleniumScenario.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/WWLnewproject/src/main/java/com/gerasimchuk/controllers/AdminController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/WWLnewproject/src/main/java/com/gerasimchuk/validators/DTOValidatorImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/WWLnewproject/src/main/webapp/WEB-INF/views/admin/addnewuserpage.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/WWLnewproject/src/main/webapp/WEB-INF/views/admin/adminmainpage.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/WWLnewproject/src/main/webapp/WEB-INF/views/general/adminheader.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/WWLnewproject/src/main/webapp/WEB-INF/views/manager/addnewcargopage.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/WWLnewproject/src/main/webapp/WEB-INF/views/manager/addnewtruckpage.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/WWLnewproject/src/main/webapp/WEB-INF/views/manager/assigntrucktoorderpage.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/WWLnewproject/src/main/webapp/resources/web/js/adminmainpagepgntd.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/WWLnewproject/src/main/webapp/resources/web/js/googlemaps.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/WWLnewproject/src/test/java/com/gerasimchuk/services/impls/OrderServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ejbgreeting/src/main/java/org/jboss/as/quickstarts/ejbinwar/controller/Greeter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ejbgreeting/src/main/java/org/jboss/as/quickstarts/ejbinwar/socket/MyWebSocket.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
