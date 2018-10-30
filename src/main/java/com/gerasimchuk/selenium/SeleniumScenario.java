@@ -161,7 +161,7 @@ public class SeleniumScenario {
             assignedTruckSelect.selectByVisibleText("xx77777");
             Thread.sleep(500);
             WebElement commitAddNewDriverBtn = driver.findElement(By.id("commitAddNewUser"));
-            Thread.sleep(50000);
+            Thread.sleep(40000);
             commitAddNewDriverBtn.click();
 //            Thread.sleep(1000);
             WebElement actionSuccessHomeBtn4 = driver.findElement(By.xpath("//button[text()='Go home']"));
